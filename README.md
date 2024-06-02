@@ -1,6 +1,6 @@
 # Caesar Cipher 
 
-## A Project from <a href="https://www.theodinproject.com/lessons/ruby-caesar-cipher">TOP Fundamentals Course</a>
+## A Project from <a href="https://www.theodinproject.com/lessons/ruby-caesar-cipher">TOP Ruby Course</a>
 
 Watch <a href="https://www.youtube.com/watch?v=36xNpbosfTY">this video</a> if you need more info on what Caesar Cipher is.
 
