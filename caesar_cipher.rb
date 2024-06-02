@@ -17,8 +17,8 @@ end
 
 def get_sub_letter(array, letter, number)
     sub_idx = array[letter] + number
-    sub_idx = sub_idx - 26 if sub_idx > 26 # a way to wrap from "z" t "a"
+    sub_idx -= 26 if sub_idx > 25 # a way to wrap from "z" to "a"
     array.key(sub_idx)    
-end
+end   
 
-caesar_cipher("What a StRing!", 5)
+caesar_cipher("What a string!", 5)
